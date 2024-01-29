@@ -10,7 +10,7 @@
  
  ### Tecnologias usadas:
 <div align="left">  
-  <img width="400" height="250" align="right" src="https://github.com/Nicoly-fernandes/Nicoly-fernandes/assets/136131434/f778e44b-29bb-4bb8-bd91-49f405ce417a">
+  <img width="400" height="250" align="right" src="https://github.com/Nicoly-fernandes/Nicoly-fernandes/assets/136131434/dfff2936-c088-4775-8a2d-a9bba14050c6">
   <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">    
